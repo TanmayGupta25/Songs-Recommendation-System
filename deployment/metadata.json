@@ -1,0 +1,14 @@
+{
+    "project_name": "Spotify Songs Recommendation System",
+    "dataset_name": "genres_v2.csv",
+    "number_of_rows": 42305,
+    "number_of_columns": 32,
+    "number_of_songs": 42305,
+    "recommendation_algorithm": "NearestNeighbors",
+    "similarity_method": "Cosine Similarity",
+    "feature_matrix_shape": [
+        42305,
+        9
+    ],
+    "creation_timestamp": "2026-07-10 08:16:33"
+}
