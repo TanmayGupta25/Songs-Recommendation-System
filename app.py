@@ -203,7 +203,7 @@ elif page == "🎵 Recommend Songs":
 
             recommendation_indices = indices.flatten()[1:]
             recommendation_distances = distances.flatten()[1:]
-                        st.success("Recommendations Generated")
+            st.success("Recommendations Generated")
 
             results = []
 
